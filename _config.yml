@@ -49,3 +49,7 @@ navigation:
     url: 'http://satelliteearth.com'
     name: Satellite Earth
     type: external
+  - id: 'http://greaterconsciousness.com'
+    url: 'http://greaterconsciousness.com'
+    name: Greater Consciousness
+    type: external
