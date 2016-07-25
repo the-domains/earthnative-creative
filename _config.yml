@@ -53,3 +53,7 @@ navigation:
     url: 'http://greaterconsciousness.com'
     name: Greater Consciousness
     type: external
+  - id: 'http://creactivist.org'
+    url: 'http://creactivist.org'
+    name: Creactivist
+    type: external
