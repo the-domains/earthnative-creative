@@ -45,3 +45,7 @@ navigation:
     url: 'http://immersivetech.com'
     name: '#ImmersiveTech #MixedReality'
     type: external
+  - id: 'http://satelliteearth.com'
+    url: 'http://satelliteearth.com'
+    name: Satellite Earth
+    type: external
