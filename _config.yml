@@ -43,7 +43,7 @@ navigation:
     type: external
   - id: 'http://immersivetech.com'
     url: 'http://immersivetech.com'
-    name: '#ImmersiveTech #MixedReality'
+    name: 'ImmersiveTech #MixedReality'
     type: external
   - id: 'http://satelliteearth.com'
     url: 'http://satelliteearth.com'
