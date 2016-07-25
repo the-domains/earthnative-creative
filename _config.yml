@@ -57,3 +57,7 @@ navigation:
     url: 'http://creactivist.org'
     name: Creactivist
     type: external
+  - id: 'http://earthnative.com'
+    url: 'http://earthnative.com'
+    name: Earthnative
+    type: external
