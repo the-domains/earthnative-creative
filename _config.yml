@@ -72,6 +72,10 @@ navigation:
     url: 'http://earthnative.com'
     name: Earthnative
     type: external
+  - id: 'http://tumblr.com/earthnative'
+    url: 'http://tumblr.com/earthnative'
+    name: EarthNative Tumblr
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a70e2ac-26dc-48a3-8052-27b66932137b.jpg
 title: We are creators.
