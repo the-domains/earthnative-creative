@@ -41,3 +41,7 @@ navigation:
     url: 'http://earthlingmovie.com'
     name: Earthling Campaign
     type: external
+  - id: 'http://immersivetech.com'
+    url: 'http://immersivetech.com'
+    name: '#ImmersiveTech #MixedReality'
+    type: external
