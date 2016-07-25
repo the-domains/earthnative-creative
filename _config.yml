@@ -11,9 +11,13 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: EARTHNATIVE CREATIVE
+name: NATIVES.EARTH
 navigation:
   - id: photo.earthnative.com
     url: photo.earthnative.com
     name: Earthnative Photography
+    type: external
+  - id: 'http://acidtestmovie.com'
+    url: 'http://acidtestmovie.com'
+    name: 'Acid Test '
     type: external
