@@ -21,3 +21,7 @@ navigation:
     url: 'http://acidtestmovie.com'
     name: 'Acid Test '
     type: external
+  - id: 'http://vimeo.com/earthnative'
+    url: 'http://vimeo.com/earthnative'
+    name: Motion Pictures
+    type: external
