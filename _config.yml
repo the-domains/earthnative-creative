@@ -33,3 +33,7 @@ navigation:
     url: 'http://sonicsea.org'
     name: Sonic Sea
     type: external
+  - id: 'http://therevolutionmovie.com'
+    url: 'http://therevolutionmovie.com'
+    name: Revolution
+    type: external
