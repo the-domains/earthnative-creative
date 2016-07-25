@@ -37,3 +37,7 @@ navigation:
     url: 'http://therevolutionmovie.com'
     name: Revolution
     type: external
+  - id: 'http://earthlingmovie.com'
+    url: 'http://earthlingmovie.com'
+    name: Earthling Campaign
+    type: external
