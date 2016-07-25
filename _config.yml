@@ -1,5 +1,6 @@
-layout_spectrum: 0.6675116720143706
 typography_spectrum: 0.4962053680792451
+content_rating:
+  adult: false
 color:
   brandStrength: 0.6797691436950117
   lightness: 0.2777184038423002
@@ -11,6 +12,16 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+opengraph:
+  appId: '746875900'
+  type: Facebook Page
+layout_spectrum: 0.6675116720143706
+author:
+  name: Tristan Bayer
+  email: creative@earthnative.com
+  url: 'http://www.earthnative.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/202c4f07-7b8c-47ef-803a-f015d2b91b73.jpg
 name: NATIVES.EARTH
 navigation:
   - id: photo.earthnative.com
@@ -61,3 +72,6 @@ navigation:
     url: 'http://earthnative.com'
     name: Earthnative
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a70e2ac-26dc-48a3-8052-27b66932137b.jpg
+title: We are creators.
