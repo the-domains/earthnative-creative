@@ -12,3 +12,8 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 name: EARTHNATIVE CREATIVE
+navigation:
+  - id: photo.earthnative.com
+    url: photo.earthnative.com
+    name: Earthnative Photography
+    type: external
