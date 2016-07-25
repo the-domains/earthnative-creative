@@ -25,3 +25,7 @@ navigation:
     url: 'http://vimeo.com/earthnative'
     name: Motion Pictures
     type: external
+  - id: 'http://finfree.org'
+    url: 'http://finfree.org'
+    name: Fin Free
+    type: external
