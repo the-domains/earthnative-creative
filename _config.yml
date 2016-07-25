@@ -29,3 +29,7 @@ navigation:
     url: 'http://finfree.org'
     name: Fin Free
     type: external
+  - id: 'http://sonicsea.org'
+    url: 'http://sonicsea.org'
+    name: Sonic Sea
+    type: external
