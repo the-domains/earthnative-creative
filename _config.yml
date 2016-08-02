@@ -24,62 +24,49 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/202c4f07-7b8c-47ef-803a-f015d2b91b73.jpg
 name: NATIVES.EARTH
 navigation:
-  - id: photo.earthnative.com
+  - name: Earthnative Photography
     url: photo.earthnative.com
-    name: Earthnative Photography
     type: external
-  - id: 'http://acidtestmovie.com'
+  - name: 'Acid Test '
     url: 'http://acidtestmovie.com'
-    name: 'Acid Test '
     type: external
-  - id: 'http://vimeo.com/earthnative'
+  - name: Motion Pictures
     url: 'http://vimeo.com/earthnative'
-    name: Motion Pictures
     type: external
-  - id: 'http://finfree.org'
+  - name: Fin Free
     url: 'http://finfree.org'
-    name: Fin Free
     type: external
-  - id: 'http://sonicsea.org'
+  - name: Sonic Sea
     url: 'http://sonicsea.org'
-    name: Sonic Sea
     type: external
-  - id: 'http://therevolutionmovie.com'
+  - name: Revolution
     url: 'http://therevolutionmovie.com'
-    name: Revolution
     type: external
-  - id: 'http://earthlingmovie.com'
+  - name: Earthling Campaign
     url: 'http://earthlingmovie.com'
-    name: Earthling Campaign
     type: external
-  - id: 'http://immersivetech.com'
+  - name: ImmersiveTech
     url: 'http://immersivetech.com'
-    name: ImmersiveTech
     type: external
-  - id: 'http://satelliteearth.com'
+  - name: Satellite Earth
     url: 'http://satelliteearth.com'
-    name: Satellite Earth
     type: external
-  - id: 'http://greaterconsciousness.com'
+  - name: Greater Consciousness
     url: 'http://greaterconsciousness.com'
-    name: Greater Consciousness
     type: external
-  - id: 'http://creactivist.org'
+  - name: Creactivist
     url: 'http://creactivist.org'
-    name: Creactivist
     type: external
-  - id: 'http://earthnative.com'
+  - name: Earthnative
     url: 'http://earthnative.com'
-    name: Earthnative
     type: external
-  - id: 'http://tumblr.com/earthnative'
+  - name: EarthNative Tumblr
     url: 'http://tumblr.com/earthnative'
-    name: EarthNative Tumblr
     type: external
-  - id: 'http://tripping.tv'
+  - name: Tripping
     url: 'http://tripping.tv'
-    name: Tripping
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a70e2ac-26dc-48a3-8052-27b66932137b.jpg
 title: Modern day life on Earth.  Become a Native and join the Tribe.
+description: Born right here on Earth
