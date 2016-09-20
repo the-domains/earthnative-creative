@@ -1,21 +1,24 @@
-typography_spectrum: 0.4962053680792451
+typography_spectrum: 0.09661202458664775
 content_rating:
   adult: false
 color:
-  brandStrength: 0.6797691436950117
-  lightness: 0.2777184038423002
-  saturation: 0.2976176568772644
-  rhythmicContrast: 0.938227531965822
+  brandStrength: 0.7750934483483434
+  lightness: 0.8172243244480342
+  saturation: 0.599065895890817
+  rhythmicContrast: 0.2776939629111439
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+github: true
 opengraph:
   appId: '746875900'
   type: Facebook Page
-layout_spectrum: 0.6675116720143706
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/05cc4cf7-b80e-40eb-b4fc-fe192114908e.jpg
+layout_spectrum: 0.0577919774223119
 author:
   name: Tristan Bayer
   email: creative@earthnative.com
@@ -66,7 +69,20 @@ navigation:
   - name: Tripping
     url: 'http://tripping.tv'
     type: external
+  - name: Orangutans are Pongos.
+    id: d3bb360c-cf24-4271-b08a-0bda63c8eae4
+    type: content
+  - name: Polar Bears Vanishing Into Thin Ice
+    id: e206e56f-fbc2-489c-a45d-91b868afc47d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a70e2ac-26dc-48a3-8052-27b66932137b.jpg
 title: 'Earth, our only home. Make it better.'
 description: Create. Connect. Protect.
+purpose:
+  - type: contact
+    url: 'mailto:contact@earthnative.com'
+    label: Let's Work Together
+  - type: external
+    url: 'http://photos.earthnative.com'
+    label: Scope Projects
