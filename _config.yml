@@ -36,11 +36,11 @@ navigation:
   - name: 'Acid Test Movie '
     url: 'http://acidtestmovie.com'
     type: external
-  - name: Fin Free Campaign
-    url: 'http://finfree.org'
-    type: external
   - name: Sonic Sea Film
     url: 'http://sonicsea.org'
+    type: external
+  - name: Fin Free Campaign
+    url: 'http://finfree.org'
     type: external
   - name: Revolution Movie
     url: 'http://therevolutionmovie.com'
