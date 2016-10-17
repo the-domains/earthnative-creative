@@ -30,11 +30,11 @@ navigation:
   - name: Earthnative Photography
     url: photo.earthnative.com
     type: external
-  - name: 'Acid Test Movie '
-    url: 'http://acidtestmovie.com'
-    type: external
   - name: Motion Pictures
     url: 'http://vimeo.com/earthnative'
+    type: external
+  - name: 'Acid Test Movie '
+    url: 'http://acidtestmovie.com'
     type: external
   - name: Fin Free Campaign
     url: 'http://finfree.org'
