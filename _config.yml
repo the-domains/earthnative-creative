@@ -48,7 +48,7 @@ navigation:
   - name: Earthling Campaign
     url: 'http://earthlingmovie.com'
     type: external
-  - name: ImmersiveTech
+  - name: ImmersiveTech Site
     url: 'http://immersivetech.com'
     type: external
   - name: Satellite Earth
