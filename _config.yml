@@ -63,7 +63,7 @@ navigation:
   - name: Earthnative Home
     url: 'http://earthnative.com'
     type: external
-  - name: EarthNative Tumblr
+  - name: Earthnative Tumblr
     url: 'http://tumblr.com/earthnative'
     type: external
   - name: Tripping
