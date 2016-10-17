@@ -30,7 +30,7 @@ navigation:
   - name: Earthnative Photography
     url: photo.earthnative.com
     type: external
-  - name: 'Acid Test '
+  - name: 'Acid Test Movie '
     url: 'http://acidtestmovie.com'
     type: external
   - name: Motion Pictures
@@ -78,6 +78,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a70e2ac-26dc-48a3-8052-27b66932137b.jpg
 title: 'Earth, our only home. Make it better.'
+content: []
 description: Create. Connect. Protect.
 purpose:
   - type: contact
