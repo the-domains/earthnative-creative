@@ -28,7 +28,7 @@ logo: >-
 name: NATIVES.EARTH
 navigation:
   - name: Earthnative Photography
-    url: photo.earthnative.com
+    url: 'http://photo.earthnative.com'
     type: external
   - name: Motion Pictures
     url: 'http://vimeo.com/earthnative'
